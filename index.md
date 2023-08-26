@@ -1,5 +1,3 @@
-# Gracie Davenport
-
 Hi! I’m a Python-focused Software Engineer driven by my passion for delivering results and helping teams work well together. I love taking on projects that are focused on the needs of the user and collaborating with team members to deliver wins that move us forward. I have written apps that orchestrate complex interactions between many systems, some internal and some external, and am experienced in helping engineering teams plan and manage their work.
 
 ## WORK EXPERIENCE
